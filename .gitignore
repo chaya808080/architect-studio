@@ -1,0 +1,15 @@
+# dependencies & builds
+node_modules/
+build/
+bin/
+obj/
+.vs/
+
+# local databases
+*.mdf
+*.ldf
+
+# secrets & local settings
+.env
+.env.*
+*.user
